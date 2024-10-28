@@ -1,3 +1,5 @@
 node_modules
 # Keep environment variables out of version control
 .env
+hello.pem
+bittu_kumar_resume_password.pem
